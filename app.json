@@ -1,0 +1,49 @@
+{
+  "pages":[
+    "pages/index/index",
+    
+    "pages/function/home/home",
+    "pages/function/waimai/waimai",
+    "pages/function/xianzhi/xianzhi",
+    "pages/function/car/car",
+    "pages/function/express/express",
+    "pages/function/help/help",
+    "pages/function/job/job",
+    
+    "pages/campus/home/home",
+    "pages/campus/map/map",
+    "pages/campus/url/url",
+    
+    "pages/publish/pubcar/pubcar",
+    "pages/publish/pubexpress/pubexpress",
+    "pages/publish/pubxianzhi/pubxianzhi",
+    "pages/publish/pubhelp/pubhelp",
+    "pages/publish/pubjob/pubjob",
+    "pages/publish/pubwaimai/pubwaimai",
+
+    "pages/order/home/home",
+
+    "pages/mine/home/home",
+    "pages/mine/user/user",
+    "pages/mine/about/about",
+
+    "pages/detail/detwaimai/detwaimai",
+    "pages/detail/detexpress/detexpress",
+    "pages/detail/detcar/detcar",
+    "pages/detail/detxianzhi/detxianzhi",
+    "pages/detail/dethelp/dethelp",
+    "pages/detail/detjob/detjob"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "",
+    "navigationStyle":"custom",
+    "navigationBarTextStyle":"black"
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  },
+  "sitemapLocation": "sitemap.json"
+}
